@@ -1,1 +1,1 @@
-# drumkit
+This is a project I worked on during the Web Development Bootcamp class on Udemy. It is a one-page responsive website that allows playing different drum sounds using either the keyboard or the mouse. The project combined working with JavaScript, HTML and CSS, and introduced loading custom images and audio files onto the site.
